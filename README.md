@@ -1,3 +1,9 @@
+### Python/Django Projects Set-Up
+[CS12: Intro to Django: Setup, Models, and Migrations](https://www.youtube.com/watch?v=5rfCWD0jB9U)
+
+[Intro to Django GH repo](https://github.com/lambdaSchool/Intro-Django)
+
+
 # CS Build Week 1
 
 For your first CS Build Week, you will be building an interactive ***Multi-User Dungeon (MUD)*** client and server in groups. To succeed with this project, you will be applying knowledge you've learned throughout the first part of CS to this project.
